@@ -1,0 +1,6 @@
+base_lr: 2.5e-06
+disablefinetune: false
+local_model: true
+model_name: CodeGPT-small-py
+num_classes: 5
+use_sequence: true
